@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Aiossa from './names/Aiossa';
+import Tanya from './names/tanya';
 import Aismag from './names/aismag';
 import Vitaliy from './vitaliy'
 import Albina_Gurova from  './names/gurova';
@@ -24,6 +26,7 @@ class App extends Component {
         The group list:
         <Aiossa/>
         <Mchukmarov/>
+         <Tanya/>
         <Jane/>
         <Albina_Gurova/>
         <Vitaliy/>
