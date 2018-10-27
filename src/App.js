@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Aiossa from './names/Aiossa';
+import Tanya from './names/tanya';
 import Aismag from './names/aismag';
 import Vitaliy from './vitaliy'
 import Albina_Gurova from  './names/gurova';
@@ -9,11 +11,8 @@ import {simpleCalculation} from './utils/utils';
 
 import Mchukmarov from './names/mchukmarov';
 import Milyausha from './names/Milyausha'
-<<<<<<< HEAD
-import Apesegov from './names/apesegov';
-=======
 import Jane from './names/jane';
->>>>>>> origin/master
+import Apesegov from './names/apesegov';
 
 class App extends Component {
   
@@ -28,14 +27,12 @@ class App extends Component {
         The group list:
         <Aiossa/>
         <Mchukmarov/>
+         <Tanya/>
         <Jane/>
         <Albina_Gurova/>
         <Vitaliy/>
-<<<<<<< HEAD
-        <Apesegov/>
-=======
         <Aismag/>
->>>>>>> origin/master
+        <Apesegov/>
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
