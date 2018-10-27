@@ -9,13 +9,13 @@ import Aismag from './names/aismag';
 import Vitaliy from './vitaliy'
 import Albina_Gurova from  './names/gurova';
 import Aiossa from './names/Aiossa'
-
+import Aganieva from './names/aganieva';
 import {simpleCalculation} from './utils/utils';
-
 import Mchukmarov from './names/mchukmarov';
 import Milyausha from './names/Milyausha'
 import Jane from './names/jane';
 import Apesegov from './names/apesegov';
+
 
 class App extends Component {
   
@@ -33,6 +33,7 @@ class App extends Component {
          <Tanya/>
         <Jane/>
         <Albina_Gurova/>
+        <Aganieva/>
         <Vitaliy/>
         <Yulia/>
         <Oleg/>
