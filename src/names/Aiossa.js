@@ -7,7 +7,6 @@ class Aiossa extends Component {
     return (
       <div className="Name">
         Aiossa
-        
       </div>
     );
   }
