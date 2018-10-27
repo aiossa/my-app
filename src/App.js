@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Albina_Gurova from  './names/gurova';
 import Aiossa from './names/Aiossa'
 import {simpleCalculation} from './utils/utils';
 import Aganieva from './names/aganieva';
@@ -20,8 +21,9 @@ class App extends Component {
         </header>
         The group list:
         <Aiossa/>
-        <Mchukmarov/> 
-         <Aganieva/>
+        <Mchukmarov/>
+        <Albina_Gurova/>
+        <Aganieva/>
 
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
