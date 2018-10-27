@@ -2,8 +2,12 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 <<<<<<< HEAD
+<<<<<<< HEAD
 import Aismag from './names/aismag';
 =======
+=======
+import Albina_Gurova from  './names/gurova';
+>>>>>>> origin/master
 import Aiossa from './names/Aiossa'
 >>>>>>> origin/master
 import {simpleCalculation} from './utils/utils';
@@ -28,6 +32,10 @@ class App extends Component {
         The group list:
         <Aiossa/>
         <Mchukmarov/>
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
+        <Albina_Gurova/>
 >>>>>>> origin/master
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
