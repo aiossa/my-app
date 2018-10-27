@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import Yulia from './names/Yulia'
 import {simpleCalculation} from './utils/utils';
-
+import Milyausha from './names/Milyausha'
 
 class App extends Component {
   
@@ -19,6 +19,7 @@ class App extends Component {
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
+        <p class={Milyausha}></p>
         <p>
             Result of calculation is {simpleCalculation(10,5)}
           </p>
