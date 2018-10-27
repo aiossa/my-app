@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class  extends Component {
+class Vitaliy extends Component {
   
 
   render() {

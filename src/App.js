@@ -2,17 +2,16 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import Oleg from './names/olego';
 import './App.css';
-import Yulia from './names/Yulia'
+import Yulia from './names/Yulia';
 import Aiossa from './names/Aiossa';
 import Tanya from './names/tanya';
 import Aismag from './names/aismag';
-import Vitaliy from './vitaliy'
-import Albina_Gurova from  './names/gurova';
-import Aiossa from './names/Aiossa'
+import Vitaliy from './names/vitaliy';
+import AlbinaGurova from  './names/gurova';
 import Aganieva from './names/aganieva';
 import {simpleCalculation} from './utils/utils';
 import Mchukmarov from './names/mchukmarov';
-import Milyausha from './names/Milyausha'
+import Milyausha from './names/Milyausha';
 import Jane from './names/jane';
 import Apesegov from './names/apesegov';
 
@@ -32,7 +31,7 @@ class App extends Component {
         <Mchukmarov/>
          <Tanya/>
         <Jane/>
-        <Albina_Gurova/>
+        <AlbinaGurova/>
         <Aganieva/>
         <Vitaliy/>
         <Yulia/>

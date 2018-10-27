@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
 
-class Albina_Gurova extends Component {
+class AlbinaGurova extends Component {
   
 
   render() {
@@ -13,4 +13,4 @@ class Albina_Gurova extends Component {
   }
 }
 
-export default Albina_Gurova;
+export default AlbinaGurova;
