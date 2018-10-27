@@ -17,7 +17,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React infotech!!!</h1>
+          <h1 className="App-title">Welcome to React!!!</h1>
         </header>
         The group list:
         <Aiossa/>
