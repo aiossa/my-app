@@ -1,15 +1,15 @@
 import React, { Component } from 'react';
 
-class  extends Component {
+class Aiossa extends Component {
   
 
   render() {
     return (
       <div className="Name">
-       Vitaliy
+        Aiossa
       </div>
     );
   }
 }
 
-export default Vitaliy;
+export default Aiossa;
