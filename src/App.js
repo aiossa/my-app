@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import {simpleCalculation} from './utils/utils';
-
+import Aganieva from './names/aganieva';
 
 class App extends Component {
   
@@ -12,8 +12,9 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React!!!</h1>
+          <h1 className="App-title">Welcome to React infotech!!!</h1>
         </header>
+        <Aganieva/>
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
