@@ -13,6 +13,7 @@ import {simpleCalculation} from './utils/utils';
 import Mchukmarov from './names/mchukmarov';
 import Milyausha from './names/Milyausha'
 import Jane from './names/jane';
+import Apesegov from './names/apesegov';
 
 class App extends Component {
   
@@ -33,6 +34,7 @@ class App extends Component {
         <Vitaliy/>
         <Oleg/>
         <Aismag/>
+        <Apesegov/>
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
