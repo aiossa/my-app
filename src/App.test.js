@@ -9,7 +9,3 @@ it('renders without crashing', () => {
   ReactDOM.render(<App />, div);
   ReactDOM.unmountComponentAtNode(div);
 });
-
-// it('calculation works', () => {
-//     expect(simpleCalculation(4,10)).toEqual(14);
-// });
