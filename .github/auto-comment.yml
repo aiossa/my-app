@@ -1,45 +1,81 @@
 # Comment to a new issue.
 issuesOpened: >
   Thank you for issuesOpened an issue. We will try and get back to you as soon as possible.
-
   Please make sure you have given us as much context as possible.
-
 pullRequestOpened: >
   Thank you for pullRequestOpened your pull request.
-
   Please make sure you have followed our contributing guidelines. We will review it as soon as possible.
   
   
 pullRequestOpened: >
   Thank you for pullRequestOpened your pull request.
+  - [ ] Tested on all major browsers
+  
+  - [ ] Signed off UX
+  
+  - [ ] Tested a new build
   
 pullRequestClosed: >
   Thank you for pullRequestClosed your pull request.
+  - [ ] Tested on all major browsers
+  
+  - [ ] Signed off UX
+  
+  - [ ] Tested a new build
   
 pullRequestReviewRequested: >
   Thank you for pullRequestReviewRequested your pull request.
+  - [ ] Tested on all major browsers
+  
+  - [ ] Signed off UX
+  
+  - [ ] Tested a new build
   
 pullRequestReviewRequestRemoved: >
   Thank you for pullRequestReviewRequestRemoved your pull request.
   
 pullRequestLabeled: >
   Thank you for pullRequestLabeled your pull request.
+  - [ ] Tested on all major browsers
+  
+  - [ ] Signed off UX
+  
+  - [ ] Tested a new build
   
 pullRequestUnlabeled: >
   Thank you for pullRequestUnlabeled your pull request.
+  - [ ] Tested on all major browsers
+  
+  - [ ] Signed off UX
+  
+  - [ ] Tested a new build
   
 pullRequestEdited: >
   Thank you for pullRequestEdited your pull request.
+  - [ ] Tested on all major browsers
+  
+  - [ ] Signed off UX
+  
+  - [ ] Tested a new build
   
 pullRequestClosed: >
   Thank you for pullRequestClosed your pull request.
+  - [ ] Tested on all major browsers
+  
+  - [ ] Signed off UX
+  
+  - [ ] Tested a new build
   
 pullRequestReopened: >
   Thank you for pullRequestReopened your pull request.
+  - [ ] Tested on all major browsers
+  
+  - [ ] Signed off UX
+  
+  - [ ] Tested a new build
   
 pullRequestAssigned: >
   Thank you for pullRequestAssigned your pull request.
   
 pullRequestUnassigned: >
   Thank you for pullRequestUnassigned your pull request.
-  
